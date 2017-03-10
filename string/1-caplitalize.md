@@ -20,7 +20,7 @@ Sample Output
 
 ```          
           
-###Knowledge           
+###[Knowledge](https://developers.google.com/edu/python/strings)           
 ```    
 s.lower(), s.upper() -- returns the lowercase or uppercase version of the string
 
